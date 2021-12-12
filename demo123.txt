@@ -1,3 +1,7 @@
 This is the first line I am writing into the file
 
 I am Adding the second Line to the file
+
+I love Java
+
+I love Python
