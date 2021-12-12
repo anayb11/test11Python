@@ -1,0 +1,4 @@
+This new python code is added by user anayb11
+
+1. Multiplcation operation
+2. Division operation
