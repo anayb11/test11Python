@@ -11,3 +11,7 @@ Python code for Addition of two numbers
 
 We are witing the function of generating the fibonacci series
 
+I love the C language too, for system programming
+
+Unix is mother of all OS
+
